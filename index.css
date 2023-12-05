@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-color: gray;
+    background-image: url(game.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border-radius:20% ;
+    border:10px solid black;
+    margin: 2rem;
+}
+.o{
+    background-color: #d35380;
+}
+.tw{
+    background-color: #d89345;
+}
+.th{
+    background-color: #63aac8;
+}
+.f{
+background-color: #8e9ff9;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+.flash{
+    background-color: white;
+}
+.usfl{
+    background-color: rgb(85, 85, 71);
+}
