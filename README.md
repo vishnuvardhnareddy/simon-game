@@ -1,2 +1,2 @@
 # simon-game
-created simon game using java script little bit css and html 
+created by using java script little bit css and html 
